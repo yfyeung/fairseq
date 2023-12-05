@@ -116,6 +116,7 @@ ENV/
 /fairseq/version.py
 
 # data
+data/
 data-bin/
 
 # reranking
@@ -139,3 +140,8 @@ wandb/
 nohup.out
 multirun
 outputs
+
+# Experiments
+exp/
+ckpt/
+recipes/
